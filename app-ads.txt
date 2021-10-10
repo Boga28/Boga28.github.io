@@ -1,5 +1,5 @@
 google.com, pub-3405044999727097, DIRECT, f08c47fec0942fa0
-
+google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
 
 vdopia.com, 15698, DIRECT, 49a66ce31a704197 #video
 chocolateplatform.com, 15698, DIRECT, 49a66ce31a704197 #video
